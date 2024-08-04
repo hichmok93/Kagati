@@ -4,6 +4,45 @@ With all of the projects you will be working on here at Lambda School, you will 
 
 You have the ability to write HTML, CSS, and responsive media queries.  You also know how to identify and write responsive units.  It's time to put that knowledge into action by reading someone else's code and adding your own flavor.  You will be building a portfolio website from a template found on [https://html5up.net/](https://html5up.net/).
 
+**1st version of the Website Kagati.nl** 
+
+_Steps in building and maintaining a site:_ 
+_Workflow and processes concerning the website and its architecture:_ 
+
+ETL : Extract Transform and load. 
+Deploy a demo site on Github 
+
+_1. Scrapping the photos from the original website using a Phyton script in VSC. _( Write a Phyton script)_ 
+2. Wordpress API to extract the Photos. _(Use an API to extract the Photos)_ 
+3. Save the images .jpg the filles localy and build a website local using the template from 5htmlup _(build site on a local computer)_ 
+4. ChatGPT for errors and explenation during the process.  _(help)_
+5. write a script to rename all the 250+ images to a 00.jpg format file.  _(transform)_
+6. put the site togheter and upload the documents to my Github page _(push the site)_ 
+7. create a page to represent the demo website _(Github Page)__ 
+
+work so far: Added to the demo site and the work procces: 
+
+- Links to Instagram and the original website. (kagati.nl) 
+- One part of the stock photo's scrapped from the website using Python 
+- Used a script to rearrange the names and size  within the file structure local.
+- Made a git enviorment
+- Published the page. 
+- Changed the layout and colors of the stock site from htlm5up
+- They have the credit, it's for private use only
+- Links to Instagram and the original website. (kagati.nl) 
+- email options via mailto:_ 
+
+**Future  work:** 
+- Set an officiale e-mail system using PHP 
+- Change the latin text to originale text
+- rearrange the images and subjects 
+- Make multiple pages using the same interface 
+- Test mobile and web version
+- Color schema check. 
+- 3D effects on website interactive features
+
+
+
 ## Project Set Up
 
 ### Follow these steps to set up and work on your project:

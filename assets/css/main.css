@@ -213,13 +213,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #34a58e;
+		color: #7834a5;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #34a58e !important;
+			color: #7834a5 !important;
 		}
 
 	strong, b {
@@ -400,8 +400,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #34a58e;
-			color: #34a58e !important;
+			box-shadow: inset 0 0 0 2px #b246f0;
+			color: #9f5aa8 !important;
 		}
 
 			input[type="submit"]:hover:active,
@@ -410,7 +410,8 @@ input, select, textarea {
 			button:hover:active,
 			.button:hover:active {
 				background-color: rgba(52, 165, 142, 0.15);
-				color: #34a58e !important;
+			box-shadow: inset 0 0 0 2px #b246f0;
+				color: #b246f0 !important;
 			}
 
 		input[type="submit"].icon,
@@ -458,7 +459,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #34a58e;
+			background-color: #b047c5;
 			box-shadow: none;
 		}
 
@@ -467,7 +468,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #47c5ab;
+				background-color: #b047c5;
 				color: #ffffff !important;
 			}
 
@@ -476,7 +477,7 @@ input, select, textarea {
 				input[type="button"].primary:hover:active,
 				button.primary:hover:active,
 				.button.primary:hover:active {
-					background-color: #287e6d;
+					background-color: #6a287e;
 				}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -616,7 +617,7 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: inset 0 0 0 2px #34a58e;
+			box-shadow: inset 0 0 0 2px #b74de0;
 		}
 
 	select {
@@ -714,15 +715,15 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #34a58e;
-			border-color: #34a58e;
+			background: #be49e2;
+			border-color: #be49e2;
 			color: #ffffff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #34a58e;
+			box-shadow: 0 0 0 2px #a550be;
 		}
 
 	input[type="radio"] + label:before {
@@ -1489,7 +1490,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: #a0a0a1;
+			color: #c18cce;
 			display: inline-block;
 			font-size: 1em;
 			line-height: 1;

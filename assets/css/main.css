@@ -459,7 +459,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #f5c60d;
+			background-color: #ffce00;
 			box-shadow: none;
 		}
 
@@ -1544,7 +1544,7 @@ input, select, textarea {
 						}
 
 						#header nav > ul > li a:hover {
-							color: #ffffff !important;
+							color: #ffce00 !important;
 						}
 
 						#header nav > ul > li a.active {

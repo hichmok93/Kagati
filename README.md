@@ -1,8 +1,8 @@
-# Build A Photo Website
+# Build A Photo Website Kagati 
 You have the ability to write HTML, CSS, and responsive media queries.  You also know how to identify and write responsive units.  It's time to put that knowledge into action by reading someone else's code and adding your own flavor.  You will be building a portfolio website from a template found on [https://html5up.net/](https://html5up.net/).
 
-**1st version of the Website Kagati.nl** 
-
+**1st version of the Website Kagati.nl**  
+https://hichmok93.github.io/Kagati/
 _Steps in building and maintaining a site:_ 
 _Workflow and processes concerning the website and its architecture:_ 
 

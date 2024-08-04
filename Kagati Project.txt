@@ -12,6 +12,7 @@ Main.css 	nr.1547  		header nav  	default fffffff(wit) 		color: #a7539b !importa
 
 =======================================================================================
 
+Datum: 04-08-2024
 
 **1st version of the Website Kagati.nl** 
 
